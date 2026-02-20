@@ -18,7 +18,7 @@ const hexSVG = `
  xmlns="http://www.w3.org/2000/svg">
   <path d="M2.2 26.15L43.5 2.3L84.8 26.15V73.85L43.5 97.7L2.2 73.85V26.15Z"
         stroke="rgba(139,92,246,0.5)"
-        stroke-width="1.4"
+        stroke-width="1.4"  
         fill="none"/>
 </svg>
 `;
